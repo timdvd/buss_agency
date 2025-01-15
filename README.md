@@ -17,6 +17,9 @@ Installation:
   Clone the repository:
   git clone https://github.com/timdvd/buss_agency.git  
   Open the index.html file in your browser to view the landing page.
+
+Preview:
+https://timdvd.github.io/buss_agency/
   
 Screenshots:
 ![1](https://github.com/user-attachments/assets/3d4387bd-ad7d-4b23-a398-ea6a13bbf8f0)
